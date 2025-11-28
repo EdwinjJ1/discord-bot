@@ -89,3 +89,6 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Documentation (keep local, don't commit to repo)
+docs/
