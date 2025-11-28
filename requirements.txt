@@ -1,0 +1,9 @@
+discord.py
+python-dotenv
+apscheduler
+requests
+nltk
+spacy
+sqlalchemy
+asyncpg
+google-generativeai
